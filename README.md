@@ -32,7 +32,7 @@
    <img src="https://user-images.githubusercontent.com/116110636/234710864-da8d4029-3aa8-4bf1-83b5-d2ae4d5ee554.png" width="400">
   </p>
 
-  * A task's timer is enabled by clicking the play button in the corresponding cell. The cell's color will turn green and remain colorized when it's timer is still running. The "Current Session" label will also appear and begin tracking the time, updating at every second.
+  * A task's timer is enabled by clicking the play button in the corresponding cell. The cell's color will turn green and remain colorized while it's timer is running. The "Current Session" label will also appear and begin tracking the time, updating at every second.
   <p align="center">
    <img src="https://user-images.githubusercontent.com/116110636/234711481-72a52814-84b1-4078-85a9-fdbb85a320b5.png" width="400">
   </p>
