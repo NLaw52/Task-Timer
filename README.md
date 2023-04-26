@@ -42,9 +42,12 @@
    <img src="https://user-images.githubusercontent.com/116110636/234712262-209429dd-4a1d-4991-afe9-39a3f921a83e.png" width="400">
   </p>
 
-  * Another task timer can be enabled without effecting any of the other tasks, keeping track of the specific task time elapsed in the session.
+  * Another task timer can be enabled and disabled without affecting any of the other tasks.
   <p align="center">
    <img src="https://user-images.githubusercontent.com/116110636/234712444-db5b6e33-605e-4994-84ce-69e32cd4c8c5.png" width="400">
+
+ 
+ 
    <img src="https://user-images.githubusercontent.com/116110636/234712514-cdbc217f-63b5-44e6-940e-4e12ad587044.png" width="400">
   </p>
   
