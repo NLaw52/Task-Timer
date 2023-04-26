@@ -17,7 +17,7 @@
    <img src="https://user-images.githubusercontent.com/116110636/234710445-4ba17625-1208-40b9-a6f4-a8f20fddc71a.png" width="400">
   </p>
   
-  * Enter a "IOS Project" as a new task title.
+  * Enter "IOS Project" as a new task title.
   <p align="center">
    <img src="https://user-images.githubusercontent.com/116110636/234710518-2391c62a-3330-4012-a9fa-6da1b60db863.png" width="400">
   </p>
