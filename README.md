@@ -44,9 +44,8 @@
 
   * Another task timer can be enabled and disabled without affecting any of the other tasks.
   <p align="center">
-   <img src="https://user-images.githubusercontent.com/116110636/234712444-db5b6e33-605e-4994-84ce-69e32cd4c8c5.png" width="400">
-   <spacer>
-   <img src="https://user-images.githubusercontent.com/116110636/234712514-cdbc217f-63b5-44e6-940e-4e12ad587044.png" width="400">
+   <img src="https://user-images.githubusercontent.com/116110636/234712444-db5b6e33-605e-4994-84ce-69e32cd4c8c5.png" width="400" padding-right="20">
+   <img src="https://user-images.githubusercontent.com/116110636/234712514-cdbc217f-63b5-44e6-940e-4e12ad587044.png" width="400" padding-left="20">
   </p>
   
   * A task can be deleted by swiping on the cell or clicking "Edit" in the navigation bar at the top. The screenshot below shows the effect of using a "swipe-to-delete" gesture.
