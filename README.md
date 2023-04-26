@@ -9,5 +9,5 @@
 * Example:
   * App starts with a blank list of tasks and projects. If the user has existing items on their list, it will display here.
   <p align="center">
-   <img src="https://user-images.githubusercontent.com/116110636/234710117-0c78b6a6-ba8a-4f20-9d4b-21aabee5ab9f.png" width="400>
+   <img src="https://user-images.githubusercontent.com/116110636/234710117-0c78b6a6-ba8a-4f20-9d4b-21aabee5ab9f.png" width="400">
   </p>
