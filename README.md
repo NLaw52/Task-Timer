@@ -37,7 +37,7 @@
    <img src="https://user-images.githubusercontent.com/116110636/234711481-72a52814-84b1-4078-85a9-fdbb85a320b5.png" width="400">
   </p>
 
-  * Click the pause button to stop a task's timer. The cell will revert its color and the "Current Session" label will disappear. The time that elasped in the session is added to the "Total Time" description accumulating time over all the previous sessions.
+  * Click the pause button to stop a task's timer. The cell will revert its color and the "Current Session" label will disappear. The time that elasped in the session is added to the "Total Time" description which accumulates over all previous sessions.
   <p align="center">
    <img src="https://user-images.githubusercontent.com/116110636/234712262-209429dd-4a1d-4991-afe9-39a3f921a83e.png" width="400">
   </p>
